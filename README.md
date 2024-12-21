@@ -1,6 +1,9 @@
 # Calc
+
 A simple calculator
+
 ---
+
 ## Functionality
 - double precision 
 - +, -, \*, /
