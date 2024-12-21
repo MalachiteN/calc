@@ -9,4 +9,4 @@ A simple calculator
 - +, -, \*, /
 - Nested brackets
 ## Working Principle
-ALG => RPN -> Token -> Stack Reducing -> 1st Stage of Stack = Answer
+ALG -> RPN -> Token -> Stack Reducing -> 1st Stage of Stack = Answer
